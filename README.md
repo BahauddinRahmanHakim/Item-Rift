@@ -37,7 +37,7 @@ seputar menarik kesan iklan atau karaptifitas website.
 | Nama Website | Item-Rift                                                                                                                                                     |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Otentikasi   | Pengguna dapat mendaftar, masuk, dan mengelola profil mereka.                                                                                                 |
-| Daftar Barang| HTML, CSS, JavaScript (Vanilla JS)                                                                                                                            |
-| Transaksi    | PHP(Menggunakan Laravel untuk API dan migrasi)                                                                                                                |
-| Pesan        | MySQL                                                                                                                                                         |
-| Pusat Bantuan| - Registrasi & Login - Manajemen Workout - Manajemen Health Metrics - Manajemen Goals & Target                                                                |
+| Daftar Barang|  Pengguna dapat membuat, mengedit, dan menghapus daftar barang.                                                                                               |
+| Transaksi    |  Pembeli dapat membeli barang, dan penjual dapat mengelola status transaksi.                                                                                  |
+| Pesan        | Pembeli dan penjual dapat berkomunikasi melalui sistem perpesanan.                                                                                            |
+| Pusat Bantuan| Menyediakan FAQ dan informasi dukungan.                                                                                                                       |
