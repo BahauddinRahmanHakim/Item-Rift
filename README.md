@@ -35,6 +35,8 @@ dengan harga yang lebih murah dan barang yang layak pakai.
 seputar menarik kesan iklan atau karaptifitas website.
 
 
+# Daftar Fitur
+
 | Nama Website | Item-Rift                                                                                                                                                     |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Otentikasi   | Pengguna dapat mendaftar, masuk, dan mengelola profil mereka.                                                                                                 |
@@ -42,3 +44,13 @@ seputar menarik kesan iklan atau karaptifitas website.
 | Transaksi    |  Pembeli dapat membeli barang, dan penjual dapat mengelola status transaksi.                                                                                  |
 | Pesan        | Pembeli dan penjual dapat berkomunikasi melalui sistem perpesanan.                                                                                            |
 | Pusat Bantuan| Menyediakan FAQ dan informasi dukungan.                                                                                                                       |
+
+
+Proyek ini disusun oleh 'Dicky Dippos Sihite', 'Bahauddin Rahman Hakim', dan 'Roberto Christian'.
+Jika ada pertanyaan lebih lanjut silahkan menghubungi
+
+[Dicky Dippos Sihite]     (GitHub : https://github.com/Dicky-Sihite)
+
+[Bahauddin Rahman Hakim]  (GitHub : https://github.com/BahauddinRahmanHakim)
+
+[Roberto Christian]       (GitHub : https://github.com/RobertoChristian)
