@@ -45,7 +45,7 @@ seputar menarik kesan iklan atau karaptifitas website.
 | Pesan        | Pembeli dan penjual dapat berkomunikasi melalui sistem perpesanan.                                                                                            |
 | Pusat Bantuan| Menyediakan FAQ dan informasi dukungan.                                                                                                                       |
 
-
+# Credit
 Proyek ini disusun oleh 'Dicky Dippos Sihite', 'Bahauddin Rahman Hakim', dan 'Roberto Christian'.
 Jika ada pertanyaan lebih lanjut silahkan menghubungi
 
