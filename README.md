@@ -21,6 +21,7 @@ Laravel. Aplikasi ini memungkinkan pengguna untuk membeli dan menjual barang di 
 komunitas kampus mereka. Platform ini mencakup fitur-fitur seperti otentikasi pengguna, 
 daftar barang, transaksi, ulasan, dan pesan. 
 Terdapat beberapa alasan yang mendasari pembuatan website ini, yaitu: 
+
 • Memberikan layanan transaksi barang bekas, antarmahasiswa agar dapat melakukan 
 bisnis secara mudah dan efisien  
 • Menyediakan platform berbasis web yang aman dengan adanya sistem verifikasi 
